@@ -8,7 +8,7 @@ h4{text-align: center; font-style: italic; font-size: 20px; padding: 30px 20px; 
 #qsn{display: flex; flex-direction: column; box-shadow: 3px 3px 3px grey; padding: 10px 10px; background-color: white;}
 #qsn h1{text-align: center;font-size: 25px;padding: 10px;margin-bottom: 15px; background-color:#8a8172; box-shadow: 3px 3px 3px grey;color:#d7d7d7; text-transform: uppercase;}
 #qsn img{width: 250px; border-radius: 3px;box-shadow: 3px 3px 3px beige;}
-#qsn article{display: flex; align-items: center; justify-content: space-around;margin: 20px 20px;}
+#qsn article{display: flex; align-items: center; justify-content: space-around;margin: 0px 20px;}
 #qsn article img{width: 300px; height: 200px; margin : 10px 10px;box-shadow: 3px 3px 3px grey;  position: relative; right: 15px; bottom: 15px;}
 #qsn article p{font-size: 18px; margin: 10px;}
 footer{display: flex; justify-content: space-around; align-items: center; background-color: #8a8172; color: #d7d7d7;}
