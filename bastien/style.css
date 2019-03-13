@@ -60,7 +60,7 @@ nav ul a:hover{background-color: #605e5b; color: white;}
 
 
 /*section contact*/
-#contact, #form_recru {
+#contact, #form_recru, #back {
     display: flex;
     width: 70%;
     justify-content: center;
@@ -294,6 +294,11 @@ input[type=checkbox] {
     cursor: pointer;
 }
 
+.annonce {margin: 5px; ; box-shadow: 3px 3px 3px grey; background-color: beige;}
+.annonce article{display: flex;}
+.annonce .articleA{display:  flex; flex-direction: column; align-items: flex-start;}
+.annonce .articleA p{padding: 15px;}
+.annonce button{position: relative; left: 600px; margin-bottom: 10px;}
 
 
 
@@ -305,7 +310,3 @@ input[type=checkbox] {
 
 
 
-.backtotop{width: 30px;height: 30px;position: fixed;right: 200px;top: 900px}
-.backtotop img{width: 100%;height:100%;}
-.desactive{display: none}
-.active{display: flex}
