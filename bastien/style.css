@@ -298,14 +298,17 @@ input[type=checkbox] {
     cursor: pointer;
 }
 
-.annonce {margin: 5px; ; box-shadow: 3px 3px 3px grey; background-color: beige;}
+.annonce {margin: 5px; ; box-shadow: 3px 3px 3px grey; background-color: #bdc3c7;}
 .annonce article{display: flex;}
 .annonce .articleA{display:  flex; flex-direction: column; align-items: flex-start;}
 .annonce .articleA p{padding: 15px;}
 .annonce button{position: relative; left: 600px; margin-bottom: 10px;}
+.btnAnnonce{position: relative; left: 600px; margin-bottom: 10px;}
 
-
-
+#ajout{padding: 10px; width: 70%; background-color: white}
+#ajout form{ padding: 10px; }
+#ajout input, #ajout textarea{margin: 10px;}
+#dc{margin: 40px;}
 
 
 
