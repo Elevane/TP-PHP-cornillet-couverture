@@ -19,6 +19,20 @@
 	</section>
 
 
+        <section id="presentation">
+        <article>
+            <img src="Images/photo1.jpg" alt="photo ardoise">
+            <img src="Images/photo2.jpg" alt="photo Zinc">
+            <img src="Images/photo3.jpg" alt="photo taule">
+        </article>
+
+        <article id="articlePresentation">
+            <h2> * Tous profils recherchés * </h2>
+            <h3>Cornillet-Couverture recherche de nombreuses personnes pour Maintenir de développement de son activité. Dans l'optique de satisfaire au maximum le client, nous formons nous même nos collaborateurs, quel que soit leur parcours.</h3>
+        </article>
+        
+    </section>
+
 	 <section id="back">
             <h1>Annonces</h1>
 
